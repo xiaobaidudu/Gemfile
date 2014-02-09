@@ -1,0 +1,4 @@
+Gemfile
+=======
+
+gem 'github-pages'
